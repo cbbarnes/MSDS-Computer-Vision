@@ -1,6 +1,7 @@
 ## MSDS Computer Vision
 ### Demo 1: 
 #### - Create classification model on the Fashion MNIST data
+##### - See the FashionMNIST_Demo1.ipynb
 
 ### Demo 2: 
 #### - TBD
