@@ -6,7 +6,7 @@
 ### Demo 2: 
 #### - Train the Ms-PacMan game in OpenAI Gym
 ##### - See the DQN_MsPacMan.ipynb
-###### This code was generated with help from https://towardsdatascience.com/automating-pac-man-with-deep-q-learning-an-implementation-in-tensorflow-ca08e9891d9c
+###### - This code was generated with help from https://towardsdatascience.com/automating-pac-man-with-deep-q-learning-an-implementation-in-tensorflow-ca08e9891d9c
 
 ### Demo 3: 
 #### - TBD
