@@ -13,23 +13,9 @@
 ##### - See the ComputerVisionAI_Demo3.ipynb
 ###### - The code was created with help from: https://towardsdatascience.com/tutorial-google-vision-api-with-python-and-heroku-3b8d3ff5f6ef
 
-### Demo 4: 
-#### - TBD
 
-### Demo 5: 
-#### - TBD
 
-### Demo 6: 
-#### - TBD
-
-### Demo 7: 
-#### - TBD
-
-### Demo 8: 
-#### - TBD
-
-### Demo 9: 
-#### - TBD
-
-### Demo 10: 
-#### - TBD
+### Demo 10: Final Project - Ships in Satellite Imagery 
+#### - Created a Google Colab notebook that trains a CNN on ships in satellite imagery. 
+#### - Converted the Keras model to CoreML
+#### - Created Xcode project with Ship Dection CoreML model to deploy object detection mobile application to my iPhone
